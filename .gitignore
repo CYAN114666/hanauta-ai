@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+work/
+*.log
+*.sf2
+*.sf3
+test_*.py
+test_*.wav
+tune_test.py
+compare_notes.py

@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+venv/
+work/
+.git/
+*.sf2
+test_*.py
+test_*.wav
+tune_test.py
+compare_notes.py
